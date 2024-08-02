@@ -1,1 +1,2 @@
 # SN-Airlines
+Comprehensive airline management system allowing users to book, view, and cancel flights, as well as provide feedback. Implemented functionalities for administrators to manage flight schedules, add, modify, and delete flights, and view user feedback. Utilized PHP and MySQL for backend operations and data handling, ensuring secure and efficient management of flight data. Enhanced user experience through a responsive web interface and integrated validation checks.
